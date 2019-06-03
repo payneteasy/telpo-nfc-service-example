@@ -43,7 +43,7 @@ You can use already generated IRemoveNfcService from the com.payneteasy.telpo-nf
 
 ### NfcClientImpl class
 
-You can use NfcClientImpl from this example.
+You can use [NfcClientImpl](https://github.com/payneteasy/telpo-nfc-service-example/blob/master/app/src/main/java/com/payneteasy/telpo/nfc/example/client/NfcClientImpl.java) from this example.
 
 For example:
 ```java
@@ -61,4 +61,4 @@ try {
 }
 ```
 
-For more info please see CardReaderPresenterImpl.java
+For more info please see [CardReaderPresenterImpl.java](https://github.com/payneteasy/telpo-nfc-service-example/blob/8188acfa836bbec1b96a2d6bf801c7e925268979/app/src/main/java/com/payneteasy/telpo/nfc/example/cardreader/CardReaderPresenterImpl.java#L50-L61)
