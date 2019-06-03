@@ -1,4 +1,8 @@
-# telpo-nfc-service-example
+[![CircleCI](https://circleci.com/gh/payneteasy/telpo-nfc-service-example.svg?style=svg)](https://circleci.com/gh/payneteasy/telpo-nfc-service-example)
+
+# Telpo NFC service example
+
+
 
 ## How to use NFC Service
 ```java
