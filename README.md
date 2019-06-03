@@ -9,6 +9,7 @@ Please javadoc at the https://mpos.pne.io/telpo-nfc/telpo-nfc-aidl-javadoc/
 ```bash
 ./gradlew assembleDebug
 ```
+Also you can find apk the the [Releases section](https://github.com/payneteasy/telpo-nfc-service-example/releases)
 
 Do not forget to install *Kassatka NFC Service*
 
