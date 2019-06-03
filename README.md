@@ -2,6 +2,8 @@
 
 # Telpo NFC service example
 
+Please javadoc at the https://mpos.pne.io/telpo-nfc/telpo-nfc-aidl-javadoc/
+
 ## How to build and run 
 
 ```bash
